@@ -1,0 +1,12 @@
+part name,symbol,size (imp),max current,unit price,units per build,units in stock,order total,Manufacturer ID,source url,datasheet,datasheet2,,,
+80 pin header,PORT_IN1,,,$1.35,1,0,$1.35,DF40C-80DP-0.4V(51),http://www.digikey.com/product-detail/en/DF40C-80DP-0.4V(51)/H11632CT-ND/1969511,N,http://www.hirose.co.jp/cataloge_hp/ed_DF40_20140305.pdf,,Total Base Cost,$9.58
+80 pin receptacle (2.0mm),PORT_OUT1,,,$1.90,1,2,$1.90,DF40C(2.0)-80DS-0.4V(51),http://www.digikey.com/product-detail/en/DF40C(2.0)-80DS-0.4V(51)/H11773CT-ND/2178736,N,http://www.hirose.co.jp/cataloge_hp/ed_DF40_20140305.pdf,price ranges 1.40 - 2.50,,
+AND/OR gate,PORT_ANDOR1,,,$0.25,1,1,$0.25,SN74LVC1G0832DCKR,http://www.digikey.com/product-detail/en/SN74LVC1G0832DCKR/296-18754-1-ND/863884,,http://www.ti.com/lit/ds/symlink/sn74lvc1g0832.pdf,,,
+multifunction gate,"PORT_XOR1, PORT_INV1",,,$0.14,2,4,$0.28,SN74LVC1G58DCKR,http://www.digikey.com/product-detail/en/SN74LVC1G58DCKR/296-15577-1-ND/571153,,http://www.ti.com/lit/ds/symlink/sn74lvc1g58.pdf,,,
+64kbit eeprom,PORT_IC1,udfn,,$0.61,1,2,$0.61,AT24CS64-MAHM-T,http://www.digikey.com/product-detail/en/AT24CS64-MAHM-T/AT24CS64-MAHM-TCT-ND/4292118,N,http://www.atmel.com/images/atmel-8870-seeprom-at24cs64-datasheet.pdf,,,
+R 10k,PORT_R1,603,,$0.01,1,979,$0.01,RC0603FR-0710KL,http://www.digikey.com/product-detail/en/RC0603FR-0710KL/311-10.0KHRCT-ND/729827,MF-RES-0603-10K,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf,,,
+C 0.1uF,PORT_C1,603,,$0.02,1,400,$0.02,C0603C104K4RACTU,http://www.digikey.com/product-detail/en/C0603C104K4RACTU/399-1096-1-ND/411371,MF-CAP-0603-0.1uF,http://www.kemet.com/docfinder?Partnumber=C0603C104K4RACTU,,,
+Barometer,PORT_C2,,,2.28,1,0,2.28,BMP280,,N,http://www.mouser.com/ds/2/783/BST-BMP280-DS001-12-844746.pdf,,,
+Compass,PORT_C3,,,1.46,1,0,1.46,MAG3110FCR1,,N,http://www.nxp.com/files/sensors/doc/data_sheet/MAG3110.pdf?fasp=1&WT_TYPE=Data%20Sheets&WT_VENDOR=FREESCALE&WT_FILE_FORMAT=pdf&WT_ASSET=Documentation&fileExt=.pdf,,,
+2 logic level shift,PORT_C4,,,0.94,1,0,0.94,TXB0102,http://www.digikey.com/product-detail/en/texas-instruments/TXB0102DCUR/296-22862-1-ND/1740009,N,,,,
+1x5 jst gh side entry,PORT_C5,,,0.48,1,0,0.48,SM05B-GHS-TB(LF)(SN),http://www.digikey.com/product-detail/en/jst-sales-america-inc/SM05B-GHS-TB(LF)(SN)/455-1567-1-ND/807835,N,http://www.jst-mfg.com/product/pdf/eng/eGH.pdf,,,
